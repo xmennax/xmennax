@@ -1,4 +1,4 @@
-# Hi, I'm Menna Mohamed 
+# Hi, I'm Menna Mohamed👋
 ### Computer Science Student | Software Developer
 
 🎓 3rd-Year CS Student @ Helwan University (FCAI) 
@@ -18,6 +18,6 @@ Computer Science student passionate about building clean, maintainable software 
 **Web & Frameworks:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Databases & Tools:** 
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Core Fundamentals:** Data Structures & Algorithms · OOP · SOLID Principles · Design Patterns
+**Core Fundamentals:** Data Structures & Algorithms · OOP · SOLID Principles · Design Patterns · Databases
